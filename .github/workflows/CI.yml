@@ -140,3 +140,4 @@ jobs:
           path: ./lcov.info
       # That's it
       - run: echo "Finished testing BSeries"
+
